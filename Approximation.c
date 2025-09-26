@@ -31,6 +31,8 @@ int max_run,size_alphabet,type_run;
 char s[MAXSTR][MAXLEN];
 char min_alphabet,max_alphabet;
 
+int ExactLcs2(char lcs[MAXLEN], char *seq1, char *seq2);
+
 int Truelen(char *seq)
 {
 int i;

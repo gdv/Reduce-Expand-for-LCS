@@ -19,6 +19,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <float.h>
+#include <time.h>
+#include <string.h>
 
 #define MAXSTR 100     /* maximum number of strings in an instance */
 #define MAXLEN 1000    /* maximum length of a string */
